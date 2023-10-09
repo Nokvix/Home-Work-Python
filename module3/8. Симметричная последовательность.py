@@ -6,7 +6,9 @@ def main_func():
     for _ in range(n):
         numbers.append(int(input("Число: ")))
     print(numbers)
-    if is_symmetry():
+    if n == 0:
+        print("Последовательность пуста")
+    elif is_symmetry():
         print("Последовательность симметрична. Ничего добавлять не нужно")
     else:
         result = complete_to_symmetry(n)
