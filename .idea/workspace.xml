@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 3 модуль 4">
-      <change afterPath="$PROJECT_DIR$/module4/4. Тренировка со срезами.py" afterDir="false" />
+    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 4 модуль 4">
+      <change afterPath="$PROJECT_DIR$/module4/5. Разворот.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696850736956</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Решить задачу 4 модуль 4">
+      <option name="closed" value="true" />
+      <created>1696852379211</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696852379211</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +186,7 @@
     <MESSAGE value="Решить задачу 1 модуль 4" />
     <MESSAGE value="Решить задачу 2 модуль 4" />
     <MESSAGE value="Решить задачу 3 модуль 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 3 модуль 4" />
+    <MESSAGE value="Решить задачу 4 модуль 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 4 модуль 4" />
   </component>
 </project>
