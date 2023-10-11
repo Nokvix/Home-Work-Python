@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 9 модуль 5" />
+    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Обновить файлы окружения">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,7 +194,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696949542956</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Обновить файлы окружения">
+      <option name="closed" value="true" />
+      <created>1696949770697</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696949770697</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Изменить название файла">
+      <option name="closed" value="true" />
+      <created>1696949881663</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1696949881664</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,6 +254,8 @@
     <MESSAGE value="Решить задачу 7 модуль 5" />
     <MESSAGE value="Решить задачу 8 модуль 5" />
     <MESSAGE value="Решить задачу 9 модуль 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 9 модуль 5" />
+    <MESSAGE value="Изменить название файла" />
+    <MESSAGE value="Обновить файлы окружения" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновить файлы окружения" />
   </component>
 </project>
