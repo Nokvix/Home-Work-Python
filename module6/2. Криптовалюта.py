@@ -15,7 +15,12 @@ def process_data():
         if "sec_token_info" in i_token:
             token_price = i_token["sec_token_info"].pop("price")
             i_token["sec_token_info"]["total_price"] = token_price
-    print("5. {0}".format([i_token for i_token in data["tokens"] if "sec_token_info" in i_token]))
+            break
+    # Вывод сделал неправильно
+    # print("5. {0}".format([i_token for i_token in data["tokens"] if "sec_token_info" in i_token]))
+    for i_token in data["tokens"]:
+        if "sec_token_info" in i_token:
+            print("5.", i_token["sec_token_info"])
 
 
 data = {
