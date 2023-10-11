@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Обновить файлы окружения">
-      <change afterPath="$PROJECT_DIR$/module6/1. Песни — 2.py" afterDir="false" />
+    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить 1 задачу модуль 6">
+      <change afterPath="$PROJECT_DIR$/module6/2. Криптовалюта.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697014150410</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Решить 1 задачу модуль 6">
+      <option name="closed" value="true" />
+      <created>1697015246640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697015246640</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +157,7 @@
     <MESSAGE value="Добавить файлы папки venv" />
     <MESSAGE value="Решить задачи модуля 2" />
     <MESSAGE value="Обновить файлы окружения" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновить файлы окружения" />
+    <MESSAGE value="Решить 1 задачу модуль 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решить 1 задачу модуль 6" />
   </component>
 </project>
