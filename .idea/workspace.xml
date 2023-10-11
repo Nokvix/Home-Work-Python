@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 8 модуль 4" />
+    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Обновить файлы окружения">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -48,13 +57,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Python Skilbox/Часть 2/Home-Work-Python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;home-task/module5&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python Skilbox/Часть 2/Home-Work-Python&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,7 +106,111 @@
       <option name="project" value="LOCAL" />
       <updated>1696697540294</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Обновить файл workspace.xml">
+      <option name="closed" value="true" />
+      <created>1696859053039</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696859053039</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Добавить файлы виртуалного окружения">
+      <option name="closed" value="true" />
+      <created>1696866630719</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696866630719</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Решить задачу 1 модуль 5">
+      <option name="closed" value="true" />
+      <created>1696866654580</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696866654580</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Решить задачу 2 модуль 5">
+      <option name="closed" value="true" />
+      <created>1696867075255</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696867075255</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Решить задачу 3 модуль 5">
+      <option name="closed" value="true" />
+      <created>1696867800898</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696867800898</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Решить задачу 4 модуль 5">
+      <option name="closed" value="true" />
+      <created>1696867991745</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696867991745</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Решить задачу 5 модуль 5">
+      <option name="closed" value="true" />
+      <created>1696869035135</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696869035135</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Решить задачу 6 модуль 5">
+      <option name="closed" value="true" />
+      <created>1696874167402</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696874167402</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Решить задачу 7 модуль 5">
+      <option name="closed" value="true" />
+      <created>1696944927040</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696944927040</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Решить задачу 8 модуль 5">
+      <option name="closed" value="true" />
+      <created>1696948865275</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696948865275</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Решить задачу 9 модуль 5">
+      <option name="closed" value="true" />
+      <created>1696949542956</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696949542956</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Обновить файлы окружения">
+      <option name="closed" value="true" />
+      <created>1696949770697</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696949770697</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Изменить название файла">
+      <option name="closed" value="true" />
+      <created>1696949881663</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1696949881664</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +243,19 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Добавить файлы папки venv" />
     <MESSAGE value="Решить задачи модуля 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решить задачи модуля 2" />
+    <MESSAGE value="Обновить файл workspace.xml" />
+    <MESSAGE value="Добавить файлы виртуалного окружения" />
+    <MESSAGE value="Решить задачу 1 модуль 5" />
+    <MESSAGE value="Решить задачу 2 модуль 5" />
+    <MESSAGE value="Решить задачу 3 модуль 5" />
+    <MESSAGE value="Решить задачу 4 модуль 5" />
+    <MESSAGE value="Решить задачу 5 модуль 5" />
+    <MESSAGE value="Решить задачу 6 модуль 5" />
+    <MESSAGE value="Решить задачу 7 модуль 5" />
+    <MESSAGE value="Решить задачу 8 модуль 5" />
+    <MESSAGE value="Решить задачу 9 модуль 5" />
+    <MESSAGE value="Изменить название файла" />
+    <MESSAGE value="Обновить файлы окружения" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновить файлы окружения" />
   </component>
 </project>
