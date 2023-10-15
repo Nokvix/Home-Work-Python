@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 3 модуль 8">
-      <change afterPath="$PROJECT_DIR$/module8/4. Продвинутая функция sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 4 модуль 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697300335359</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Решить задачу 4 модуль 8">
+      <option name="closed" value="true" />
+      <created>1697304994002</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697304994002</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,17 +181,7 @@
     <MESSAGE value="Решить задачу 1 модуль 8" />
     <MESSAGE value="Решить задачу 2 модуль 8" />
     <MESSAGE value="Решить задачу 3 модуль 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 3 модуль 8" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module8/4. Продвинутая функция sum.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Решить задачу 4 модуль 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 4 модуль 8" />
   </component>
 </project>
