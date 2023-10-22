@@ -21,17 +21,21 @@ def select_action(chat_history, name):
                            "4. Полностью выйти из чата\n"
                            "Выбор: "))
         print()
-        match action:
-            case 1:
-                view_chat(chat_history)
-            case 2:
-                send_message(chat_history, name)
-            case 3:
-                break
-            case 4:
-                break
-            case _:
-                print("Неккоректная команда")
+        try:
+            match action:
+                case 1:
+                    view_chat(chat_history)
+                case 2:
+                    send_message(chat_history, name)
+                case 3:
+                    break
+                case 4:
+                    break
+                case _:
+                    raise ValueError
+        except ValueError:
+            print("Неккоректная команда")
+
     return action
 
 
