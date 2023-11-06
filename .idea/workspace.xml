@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 1 модуль 11">
-      <change afterPath="$PROJECT_DIR$/module11/2. Студенты.py" afterDir="false" />
+    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 2 модуль 11">
+      <change afterPath="$PROJECT_DIR$/module11/3. Отцы, матери и дети.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699278666120</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Решить задачу 2 модуль 11">
+      <option name="closed" value="true" />
+      <created>1699280762660</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699280762660</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,17 +157,7 @@
     <MESSAGE value="Добавить файлы папки venv" />
     <MESSAGE value="Решить задачи модуля 2" />
     <MESSAGE value="Решить задачу 1 модуль 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 1 модуль 11" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module11/2. Студенты.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Решить задачу 2 модуль 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 2 модуль 11" />
   </component>
 </project>
