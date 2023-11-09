@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 7 модуль 11">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Обновить файлы окружения" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,14 +55,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;home-task/module11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python Skilbox/Часть 2/Home-Work-Python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "home-task/module11",
+    "last_opened_file_path": "D:/Python Skilbox/Задачи на практике"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -162,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699468293997</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Обновить файлы окружения">
+      <option name="closed" value="true" />
+      <created>1699515125886</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699515125886</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +208,7 @@
     <MESSAGE value="Решить задачу 5 модуль 11" />
     <MESSAGE value="Решить задачу 6 модуль 11" />
     <MESSAGE value="Решить задачу 7 модуль 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 7 модуль 11" />
+    <MESSAGE value="Обновить файлы окружения" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновить файлы окружения" />
   </component>
 </project>
