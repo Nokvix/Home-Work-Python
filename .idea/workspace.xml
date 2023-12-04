@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 6 модуль 12">
-      <change afterPath="$PROJECT_DIR$/module13/1. Квадраты чисел.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module13/Тест модуль 13.png" afterDir="false" />
+    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 1 модуль 13">
+      <change afterPath="$PROJECT_DIR$/module13/2. Пути файлов.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696697540294</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Решить задачу 1 модуль 13">
+      <option name="closed" value="true" />
+      <created>1701705097865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701705097865</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Решить задачу 1 модуль 13">
+      <option name="closed" value="true" />
+      <created>1701705118678</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701705118678</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +158,8 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Добавить файлы папки venv" />
     <MESSAGE value="Решить задачи модуля 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решить задачи модуля 2" />
+    <MESSAGE value="Решить задачу тест модуль 13" />
+    <MESSAGE value="Решить задачу 1 модуль 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 1 модуль 13" />
   </component>
 </project>
