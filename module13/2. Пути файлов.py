@@ -1,7 +1,7 @@
 import os
 
 
-def gen_files_path(path: str = os.path.join('..')) -> list[str]:
+def gen_files_path(path: str = 'C:\\') -> list[str]:
     result = []
 
     for path, directory, files in os.walk(path):
@@ -12,4 +12,4 @@ def gen_files_path(path: str = os.path.join('..')) -> list[str]:
 
 user_path = input('Каталог: ')
 print(gen_files_path(user_path))
-print(gen_files_path())
+# print(gen_files_path())
