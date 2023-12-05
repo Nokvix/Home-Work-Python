@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 1 модуль 13">
-      <change afterPath="$PROJECT_DIR$/module13/2. Пути файлов.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 2 модуль 13" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701705118678</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Решить задачу 2 модуль 13">
+      <option name="closed" value="true" />
+      <created>1701713194952</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701713194952</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +165,7 @@
     <MESSAGE value="Решить задачи модуля 2" />
     <MESSAGE value="Решить задачу тест модуль 13" />
     <MESSAGE value="Решить задачу 1 модуль 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 1 модуль 13" />
+    <MESSAGE value="Решить задачу 2 модуль 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 2 модуль 13" />
   </component>
 </project>

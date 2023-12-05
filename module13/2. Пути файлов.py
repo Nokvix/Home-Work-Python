@@ -10,6 +10,6 @@ def gen_files_path(path: str = os.path.join('..')) -> list[str]:
     return result
 
 
-user_path = input('Путь до каталога: ')
+user_path = input('Каталог: ')
 print(gen_files_path(user_path))
 print(gen_files_path())
