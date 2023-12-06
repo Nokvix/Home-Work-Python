@@ -12,8 +12,8 @@ def logging(func: Callable) -> Callable:
         except Exception as e:
             error_message = f"Data: {datetime.datetime.now()}\n"
             error_message += f"Filename: {func.__name__}\n"
-            error_message += f"Error: {str(e)}\n\n"
-            file.write(error_message)
+            error_message += f"Error: {str(e)}\n"
+            file.write(error_message + "\n")
             print(error_message)
 
     return wrapper

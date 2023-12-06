@@ -1,12 +1,12 @@
-Data: 2023-12-06 21:02:31.541434
+Data: 2023-12-06 21:05:23.119078
 Filename: function2
 Error: division by zero
 
-Data: 2023-12-06 21:02:31.541434
+Data: 2023-12-06 21:05:23.119078
 Filename: function3
 Error: unsupported operand type(s) for +: 'int' and 'str'
 
-Data: 2023-12-06 21:02:31.541434
+Data: 2023-12-06 21:05:23.119078
 Filename: function4
 Error: unsupported operand type(s) for /: 'int' and 'str'
 
