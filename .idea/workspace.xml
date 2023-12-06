@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 3 модуль 13">
-      <change afterPath="$PROJECT_DIR$/module13/4. Односвязный список.py" afterDir="false" />
+    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 4 модуль 13">
+      <change afterPath="$PROJECT_DIR$/module13/5. Обработка логов.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module13/error_log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module13/logs.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701767005947</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Решить задачу 4 модуль 13">
+      <option name="closed" value="true" />
+      <created>1701800469635</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701800469635</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +204,7 @@
     <MESSAGE value="Решить задачу 1 модуль 13" />
     <MESSAGE value="Решить задачу 2 модуль 13" />
     <MESSAGE value="Решить задачу 3 модуль 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 3 модуль 13" />
+    <MESSAGE value="Решить задачу 4 модуль 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 4 модуль 13" />
   </component>
 </project>
