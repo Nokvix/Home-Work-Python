@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 8 модуль 4" />
+    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 4 модуль 13">
+      <change afterPath="$PROJECT_DIR$/module13/5. Обработка логов.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module13/error_log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module13/logs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -48,13 +60,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Python Skilbox/Часть 2/Home-Work-Python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;home-task/module13&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python Skilbox/Часть 2/Home-Work-Python&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,7 +110,63 @@
       <option name="project" value="LOCAL" />
       <updated>1696697540294</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Решить задачу 1 модуль 13">
+      <option name="closed" value="true" />
+      <created>1701705097865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701705097865</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Решить задачу 1 модуль 13">
+      <option name="closed" value="true" />
+      <created>1701705118678</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701705118678</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Решить задачу 2 модуль 13">
+      <option name="closed" value="true" />
+      <created>1701713194952</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701713194952</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Решить задачу 2 модуль 13">
+      <option name="closed" value="true" />
+      <created>1701761711050</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701761711050</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Решить задачу 2 модуль 13">
+      <option name="closed" value="true" />
+      <created>1701762308386</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701762308386</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Решить задачу 3 модуль 13">
+      <option name="closed" value="true" />
+      <created>1701767005947</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701767005947</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Решить задачу 4 модуль 13">
+      <option name="closed" value="true" />
+      <created>1701800469635</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701800469635</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,9 +196,15 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit" />
     <MESSAGE value="Добавить файлы папки venv" />
     <MESSAGE value="Решить задачи модуля 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решить задачи модуля 2" />
+    <MESSAGE value="Решить задачу тест модуль 13" />
+    <MESSAGE value="Решить задачу 1 модуль 13" />
+    <MESSAGE value="Решить задачу 2 модуль 13" />
+    <MESSAGE value="Решить задачу 3 модуль 13" />
+    <MESSAGE value="Решить задачу 4 модуль 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 4 модуль 13" />
   </component>
 </project>
