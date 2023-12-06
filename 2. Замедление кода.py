@@ -5,19 +5,16 @@ import functools
 
 def sleep_time(func: Callable) -> Any:
     @functools.wraps(func)
-    def wrapper(*args, **kwargs) -> Callable:
+    def wrapper(*args, **kwargs) -> None:
         time.sleep(3)
-        return func
+        func()
 
-    return wrapper()
+    return wrapper
 
 
 def get_number_1_5() -> None:
     for i in range(1, 6):
         print(i)
-
-
-get_number_1_5()
 
 
 @sleep_time
@@ -26,4 +23,5 @@ def get_number_6_10() -> None:
         print(i)
 
 
+get_number_1_5()
 get_number_6_10()
