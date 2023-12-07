@@ -6,7 +6,6 @@ def counter(func: Callable) -> Callable:
     @functools.wraps(func)
     def wrapper(*args, **kwargs) -> Any:
         wrapper.calls += 1
-        print(f"Функция '{func.__name__}' была вызвана {wrapper.calls} раз(-а)")
         return func(*args, **kwargs)
 
     wrapper.calls = 0
@@ -14,17 +13,11 @@ def counter(func: Callable) -> Callable:
 
 
 @counter
-def function1() -> None:
-    print("Функция 1")
+def fibonacci(number):
+    if number == 1 or number == 2:
+        return 1
+    return fibonacci(number - 1) + fibonacci(number - 2)
 
 
-@counter
-def function2() -> None:
-    print("Функция 2")
-
-
-function1()
-function1()
-function2()
-function1()
-function2()
+print(fibonacci(10))
+print(fibonacci.calls)
