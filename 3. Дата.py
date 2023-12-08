@@ -1,12 +1,12 @@
 class Date:
-    @staticmethod
-    def from_string(date: str) -> str:
+    @classmethod
+    def from_string(cls, date: str) -> str:
         day, month, year = date.split("-")
-        return f"День: {day}    Месяц: {month}    Год: {year}"
+        return f"День: {day}\tМесяц: {month}\tГод: {year}"
 
-    @staticmethod
-    def is_date_valid(date: str) -> bool:
-        day, month, year = date.split("-")
+    @classmethod
+    def is_date_valid(cls, date: str) -> bool:
+        day, month, year = map(int, date.split("-"))
         return 0 < int(day) < 13 and 0 < int(month) < 13 and 1000 < int(year)
 
 
