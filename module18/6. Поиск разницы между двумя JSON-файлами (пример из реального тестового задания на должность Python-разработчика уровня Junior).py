@@ -4,13 +4,13 @@ from typing import Any, Dict, List, Union
 
 def find_value(search_key: str, data: Union[Dict, List]) -> Any:
     if isinstance(data, dict):
-        keys = data.keys()
+        # keys = data.keys()
 
-        if search_key in keys:
+        if search_key in data:
             return data[search_key]
 
         else:
-            for key in keys:
+            for key in data.keys():
                 if isinstance(data[key], list) or isinstance(data[key], dict):
                     return find_value(search_key, data[key])
 
