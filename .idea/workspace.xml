@@ -4,16 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 8 модуль 4" />
+    <list default="true" id="427e4902-51c8-4386-b6df-f8ab5abbd557" name="Changes" comment="Решить задачу 6 модуль 18" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="home-task/module17" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,6 +59,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "home-task/module18",
     "last_opened_file_path": "D:/Python Skilbox/Часть 2/Home-Work-Python"
   }
 }]]></component>
@@ -96,7 +104,55 @@
       <option name="project" value="LOCAL" />
       <updated>1696697540294</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Решить задачу 1 модуль 18">
+      <option name="closed" value="true" />
+      <created>1702375844619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702375844619</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Решить задачу 2 модуль 18">
+      <option name="closed" value="true" />
+      <created>1702376404006</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702376404006</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Решить задачу 3 модуль 18">
+      <option name="closed" value="true" />
+      <created>1702381359772</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702381359772</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Решить задачу 4 модуль 18">
+      <option name="closed" value="true" />
+      <created>1702382193547</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702382193547</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Решить задачу 5 модуль 18">
+      <option name="closed" value="true" />
+      <created>1702385353179</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702385353179</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Решить задачу 6 модуль 18">
+      <option name="closed" value="true" />
+      <created>1702396084044</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702396084044</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +185,12 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Добавить файлы папки venv" />
     <MESSAGE value="Решить задачи модуля 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решить задачи модуля 2" />
+    <MESSAGE value="Решить задачу 1 модуль 18" />
+    <MESSAGE value="Решить задачу 2 модуль 18" />
+    <MESSAGE value="Решить задачу 3 модуль 18" />
+    <MESSAGE value="Решить задачу 4 модуль 18" />
+    <MESSAGE value="Решить задачу 5 модуль 18" />
+    <MESSAGE value="Решить задачу 6 модуль 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решить задачу 6 модуль 18" />
   </component>
 </project>
