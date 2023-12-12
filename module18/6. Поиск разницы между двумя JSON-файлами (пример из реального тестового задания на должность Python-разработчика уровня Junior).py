@@ -4,7 +4,6 @@ from typing import Any, Dict, List, Union
 
 def find_value(search_key: str, data: Union[Dict, List]) -> Any:
     if isinstance(data, dict):
-        # keys = data.keys()
 
         if search_key in data:
             return data[search_key]
